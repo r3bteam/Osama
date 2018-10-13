@@ -1,6 +1,6 @@
-token=NDg3NjQ1MDUyMDA1Mzg0MjAy.DnnCOg.nchRixdCmEQ0J-jMQzd-pp0Z8k8
-owner=450711003324350485 
-prefix=2
-game=Skillful Community.
+token=NTAwNjc5MTg0NTA3NDY5ODQ3.DqOVcA.Iffy9Dv7wEh2f8rXfs1b8Mx2BOc
+owner=269466566775668737 
+prefix=O
+game=- إهديني أغنيّة ، أشتقت أسمع شعورك !'
 stayinchannel=true
 songinstatus=true
